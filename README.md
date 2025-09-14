@@ -1,0 +1,1 @@
+![Android CI](https://github.com/cHRistianj98/habit-quest/actions/workflows/android-ci.yml/badge.svg)
